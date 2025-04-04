@@ -1,6 +1,6 @@
 let isJsProgrammingLanguage = 'true';
 let isJsHard = 'true';
-let favNum = 21;
+let favNum = 50;
 
 console.log(isJsProgrammingLanguage);
 console.log(isJsHard);
