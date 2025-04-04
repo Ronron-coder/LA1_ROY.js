@@ -1,7 +1,7 @@
-let name = 'Nedelyn Fernandez Donato';
-let whatDoYouWannaBecomeInYourLife = 'Engineer';
-let gender = 'Female';
-let emailHandle = 'nedelyndonato@gmail.com';
+let name = 'RONAN SAMBRANO ROY';
+let whatDoYouWannaBecomeInYourLife = 'HACKER';
+let gender = 'Male';
+let emailHandle = 'royronan83@gmail.com';
 
 console.log(name);
 console.log(whatDoYouWannaBecomeInYourLife);
