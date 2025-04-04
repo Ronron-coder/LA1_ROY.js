@@ -1,5 +1,5 @@
-let favActorFirstName = "Rico";
-let favActorLastName = "Yan";
+let favActorFirstName = "Yinlin";
+let favActorLastName = "Yao";
 
 let fullName = favActorFirstName + " " + favActorLastName;
 let uppercase = fullName.toUpperCase();
